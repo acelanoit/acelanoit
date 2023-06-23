@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A passionate full stack web developer from Italy. As a coder, my passion lies in what remains invisible to the user and in building the logic of applications. I'm currently searching for a new career opportunity, ideally a back end/full stack web developer role.</h3>
+<h3 align="center">A passionate full stack web developer from Italy, based in Germany. As a coder, my passion lies in what remains invisible to the user and in building the logic of applications. I'm currently searching for a new career opportunity, ideally a back end/full stack web developer role.</h3>
 
 - 📫 How to reach me **antonio_celano@hotmail.com**
 
